@@ -1,0 +1,452 @@
+[08-Jul-2024 14:01:01 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_scripts", expecting ")" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 197
+[08-Jul-2024 14:01:01 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_scripts", expecting ")" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 197
+[08-Jul-2024 15:50:57 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Jul-2024 16:06:17 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_scripts", expecting ")" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 48
+[08-Jul-2024 16:06:17 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_scripts", expecting ")" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 48
+[08-Jul-2024 16:06:17 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_scripts", expecting ")" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 48
+[09-Jul-2024 03:13:15 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[09-Jul-2024 03:16:15 UTC] PHP Warning:  Undefined variable $user_input_title in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\header.php on line 8
+[09-Jul-2024 09:23:36 UTC] PHP Fatal error:  Uncaught Error: Class "edit_walker_nav_menu" not found in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\header.php:52
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(745): load_template('C:\\Users\\tyuty\\...', true, Array)
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\front-page.php(6): get_header()
+#4 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\tyuty\\...')
+#5 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#6 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#7 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\header.php on line 52
+[09-Jul-2024 10:20:48 UTC] PHP Fatal error:  Cannot declare class Custom_Walker_Nav_Menu, because the name is already in use in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 0
+[09-Jul-2024 10:20:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[09-Jul-2024 10:20:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[09-Jul-2024 10:21:01 UTC] PHP Fatal error:  Cannot declare class Custom_Walker_Nav_Menu, because the name is already in use in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 0
+[09-Jul-2024 10:21:01 UTC] PHP Fatal error:  Cannot declare class Custom_Walker_Nav_Menu, because the name is already in use in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 0
+[09-Jul-2024 10:21:05 UTC] PHP Fatal error:  Cannot declare class Custom_Walker_Nav_Menu, because the name is already in use in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 0
+[09-Jul-2024 10:42:54 UTC] PHP Parse error:  syntax error, unexpected token "/" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 227
+[09-Jul-2024 10:43:00 UTC] PHP Parse error:  syntax error, unexpected token "/" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 227
+[09-Jul-2024 10:43:00 UTC] PHP Parse error:  syntax error, unexpected token "/" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 227
+[09-Jul-2024 10:43:04 UTC] PHP Parse error:  syntax error, unexpected token "/" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 227
+[09-Jul-2024 10:43:22 UTC] PHP Parse error:  syntax error, unexpected token "/" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 227
+[09-Jul-2024 10:43:22 UTC] PHP Parse error:  syntax error, unexpected token "/" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 227
+[09-Jul-2024 12:59:46 UTC] PHP Warning:  Undefined property: stdClass::$menu_order in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 246
+[09-Jul-2024 12:59:46 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php:246
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-walker.php(147): Custom_Walker_Nav_Menu->start_el('<li class="menu...', Object(WP_Post), 0, Object(stdClass))
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-walker.php(247): Walker->display_element(Object(WP_Post), Array, 0, 0, Array, '<li class="menu...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\nav-menu-template.php(616): Walker->walk(Array, 0, Object(stdClass))
+#3 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\nav-menu-template.php(236): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#4 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\header.php(49): wp_nav_menu(Object(stdClass))
+#5 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(810): require_once('C:\\Users\\tyuty\\...')
+#6 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(745): load_template('C:\\Users\\tyuty\\...', true, Array)
+#7 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\front-page.php(6): get_header()
+#9 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\tyuty\\...')
+#10 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#11 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#12 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 246
+[09-Jul-2024 13:00:02 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php:246
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-walker.php(147): Custom_Walker_Nav_Menu->start_el('<li class="menu...', Object(WP_Post), 0, Object(stdClass))
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-walker.php(247): Walker->display_element(Object(WP_Post), Array, 0, 0, Array, '<li class="menu...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\nav-menu-template.php(616): Walker->walk(Array, 0, Object(stdClass))
+#3 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\nav-menu-template.php(236): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#4 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\header.php(49): wp_nav_menu(Object(stdClass))
+#5 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(810): require_once('C:\\Users\\tyuty\\...')
+#6 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(745): load_template('C:\\Users\\tyuty\\...', true, Array)
+#7 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\front-page.php(6): get_header()
+#9 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\tyuty\\...')
+#10 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#11 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#12 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 246
+[09-Jul-2024 13:01:26 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php:246
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-walker.php(147): Custom_Walker_Nav_Menu->start_el('<li class="menu...', Object(WP_Post), 0, Object(stdClass))
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-walker.php(247): Walker->display_element(Object(WP_Post), Array, 0, 0, Array, '<li class="menu...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\nav-menu-template.php(616): Walker->walk(Array, 0, Object(stdClass))
+#3 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\nav-menu-template.php(236): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#4 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\header.php(49): wp_nav_menu(Object(stdClass))
+#5 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(810): require_once('C:\\Users\\tyuty\\...')
+#6 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(745): load_template('C:\\Users\\tyuty\\...', true, Array)
+#7 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\front-page.php(6): get_header()
+#9 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\tyuty\\...')
+#10 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#11 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#12 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\original\functions.php on line 246
+[09-Jul-2024 17:25:32 UTC] PHP Warning:  Undefined property: stdClass::$add_li_class__sp in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 255
+[09-Jul-2024 17:25:32 UTC] PHP Warning:  Undefined property: stdClass::$add_li_class__sp in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 255
+[09-Jul-2024 17:25:32 UTC] PHP Warning:  Undefined property: stdClass::$add_li_class__sp in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 255
+[09-Jul-2024 17:25:32 UTC] PHP Warning:  Undefined property: stdClass::$add_li_class__sp in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 255
+[09-Jul-2024 17:25:32 UTC] PHP Warning:  Undefined property: stdClass::$add_li_class__sp in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 255
+[09-Jul-2024 17:25:32 UTC] PHP Warning:  Undefined property: stdClass::$add_li_class__sp in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 255
+[09-Jul-2024 17:25:55 UTC] PHP Warning:  Undefined property: stdClass::$add_li_class__sp in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 255
+[09-Jul-2024 17:25:55 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php:255
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-hook.php(326): add_additional_class_on_li(Array, Object(WP_Post), Object(stdClass))
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-walker-nav-menu.php(176): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass), 0)
+#3 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-walker.php(147): Walker_Nav_Menu->start_el('', Object(WP_Post), 0, Object(stdClass))
+#4 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-walker.php(247): Walker->display_element(Object(WP_Post), Array, 1, 0, Array, '')
+#5 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\nav-menu-template.php(616): Walker->walk(Array, 1, Object(stdClass))
+#6 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\nav-menu-template.php(236): walk_nav_menu_tree(Array, 1, Object(stdClass))
+#7 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\header.php(47): wp_nav_menu(Object(stdClass))
+#8 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(810): require_once('C:\\Users\\tyuty\\...')
+#9 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(745): load_template('C:\\Users\\tyuty\\...', true, Array)
+#10 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#11 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php(15): get_header()
+#12 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\tyuty\\...')
+#13 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#14 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#15 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 255
+[09-Jul-2024 17:28:42 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\header.php on line 65
+[09-Jul-2024 17:28:46 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\header.php on line 65
+[09-Jul-2024 18:07:55 UTC] PHP Warning:  Undefined variable $title_tag in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\header.php on line 30
+[09-Jul-2024 18:07:55 UTC] PHP Warning:  Undefined variable $title_tag in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\header.php on line 33
+[09-Jul-2024 18:18:07 UTC] PHP Warning:  Undefined variable $title_tag in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\header.php on line 23
+[09-Jul-2024 18:18:07 UTC] PHP Warning:  Undefined variable $title_tag in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\header.php on line 33
+[09-Jul-2024 18:27:45 UTC] PHP Warning:  Undefined variable $title_tag in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php on line 72
+[09-Jul-2024 18:27:45 UTC] PHP Warning:  Undefined variable $title_tag in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php on line 73
+[09-Jul-2024 18:28:18 UTC] PHP Warning:  Undefined variable $title_tag in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php on line 72
+[09-Jul-2024 18:46:03 UTC] PHP Warning:  Undefined variable $phone_number in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php on line 55
+[09-Jul-2024 18:46:03 UTC] PHP Warning:  Undefined variable $phone_number in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php on line 56
+[09-Jul-2024 18:46:27 UTC] PHP Warning:  Undefined variable $phone_number in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php on line 55
+[09-Jul-2024 18:46:27 UTC] PHP Warning:  Undefined variable $phone_number in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php on line 56
+[10-Jul-2024 13:54:49 UTC] PHP Fatal error:  Uncaught Error: Class "scf" not found in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php:24
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 24
+[10-Jul-2024 14:15:56 UTC] PHP Warning:  Undefined array key "name" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-about.php on line 19
+[10-Jul-2024 16:17:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 44
+[10-Jul-2024 16:17:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 44
+[10-Jul-2024 16:18:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 44
+[10-Jul-2024 16:31:21 UTC] PHP Warning:  Undefined variable $facility in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 52
+[10-Jul-2024 16:31:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 52
+[10-Jul-2024 16:31:21 UTC] PHP Warning:  Undefined variable $facility in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 53
+[10-Jul-2024 16:31:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 53
+[10-Jul-2024 16:31:21 UTC] PHP Warning:  Undefined variable $facility in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 54
+[10-Jul-2024 16:31:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 54
+[10-Jul-2024 16:31:55 UTC] PHP Warning:  Undefined variable $facility in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 52
+[10-Jul-2024 16:31:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 52
+[10-Jul-2024 16:31:55 UTC] PHP Warning:  Undefined variable $facility in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 53
+[10-Jul-2024 16:31:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 53
+[10-Jul-2024 16:31:55 UTC] PHP Warning:  Undefined variable $facility in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 54
+[10-Jul-2024 16:31:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 54
+[10-Jul-2024 16:34:34 UTC] PHP Warning:  Undefined variable $faitlity_list in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 49
+[10-Jul-2024 16:34:34 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 49
+[10-Jul-2024 16:34:51 UTC] PHP Warning:  Undefined variable $faitlity_list in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 49
+[10-Jul-2024 16:34:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 49
+[10-Jul-2024 16:35:05 UTC] PHP Warning:  Undefined variable $faitlity_list in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 49
+[10-Jul-2024 16:35:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 49
+[10-Jul-2024 16:50:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 51
+[10-Jul-2024 16:50:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 51
+[10-Jul-2024 16:51:25 UTC] PHP Warning:  Array to string conversion in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 50
+[10-Jul-2024 16:51:25 UTC] PHP Warning:  Array to string conversion in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 52
+[10-Jul-2024 16:51:25 UTC] PHP Warning:  Array to string conversion in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 50
+[10-Jul-2024 16:59:29 UTC] PHP Parse error:  syntax error, unexpected token "endif" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 88
+[10-Jul-2024 17:00:05 UTC] PHP Warning:  Array to string conversion in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\formatting.php on line 1108
+[10-Jul-2024 17:11:14 UTC] PHP Parse error:  syntax error, unexpected token "endforeach" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 75
+[10-Jul-2024 17:47:55 UTC] PHP Warning:  Undefined variable $supermarkets in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 45
+[10-Jul-2024 17:47:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 45
+[10-Jul-2024 17:51:28 UTC] PHP Warning:  Undefined variable $convenience_store in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 59
+[10-Jul-2024 17:51:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 59
+[10-Jul-2024 17:51:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\page-location.php on line 59
+[11-Jul-2024 10:43:47 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting end of file in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php on line 90
+[11-Jul-2024 17:38:45 UTC] PHP Warning:  Undefined variable $custom_query in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php on line 35
+[11-Jul-2024 17:38:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php:35
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php on line 35
+[11-Jul-2024 18:17:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_is_post_autosaved() in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\top-title.php:8
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(812): require()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(745): load_template('C:\\Users\\tyuty\\...', false, Array)
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single.php(12): get_template_part('template-parts/...')
+#4 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\tyuty\\...')
+#5 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#6 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#7 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\top-title.php on line 8
+[11-Jul-2024 18:21:58 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\top-title.php on line 12
+[11-Jul-2024 18:22:03 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\top-title.php on line 12
+[11-Jul-2024 18:39:13 UTC] PHP Parse error:  syntax error, unexpected identifier "navigation_markup_template" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 396
+[11-Jul-2024 18:39:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[11-Jul-2024 18:39:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[11-Jul-2024 18:50:02 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php on line 85
+[12-Jul-2024 11:53:11 UTC] PHP Warning:  Undefined variable $the_query in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\archive-property.php on line 45
+[12-Jul-2024 11:53:11 UTC] PHP Warning:  Attempt to read property "max_num_pages" on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\archive-property.php on line 45
+[12-Jul-2024 13:23:14 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\top-title.php on line 14
+[12-Jul-2024 13:23:40 UTC] PHP Parse error:  syntax error, unexpected token "{", expecting "(" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\top-title.php on line 12
+[12-Jul-2024 13:29:53 UTC] PHP Warning:  Undefined variable $the_query in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\archive-property.php on line 53
+[12-Jul-2024 13:29:53 UTC] PHP Warning:  Attempt to read property "max_num_pages" on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\archive-property.php on line 53
+[12-Jul-2024 13:30:27 UTC] PHP Warning:  Undefined variable $the_query in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\archive-property.php on line 54
+[12-Jul-2024 13:30:27 UTC] PHP Warning:  Attempt to read property "max_num_pages" on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\archive-property.php on line 54
+[12-Jul-2024 13:36:02 UTC] PHP Warning:  Undefined variable $the_query in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\archive-property.php on line 52
+[12-Jul-2024 13:36:02 UTC] PHP Warning:  Attempt to read property "max_num_pages" on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\archive-property.php on line 52
+[12-Jul-2024 13:37:02 UTC] PHP Warning:  Undefined variable $the_query in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\loop-room.php on line 32
+[12-Jul-2024 13:37:02 UTC] PHP Warning:  Attempt to read property "max_num_pages" on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\loop-room.php on line 32
+[12-Jul-2024 13:39:28 UTC] PHP Warning:  Undefined variable $the_query in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\archive-property.php on line 52
+[12-Jul-2024 13:39:28 UTC] PHP Warning:  Attempt to read property "max_num_pages" on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\archive-property.php on line 52
+[12-Jul-2024 13:44:44 UTC] PHP Warning:  Undefined variable $the_query in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\archive-property.php on line 52
+[12-Jul-2024 13:44:44 UTC] PHP Warning:  Attempt to read property "max_num_pages" on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\archive-property.php on line 52
+[12-Jul-2024 14:36:39 UTC] PHP Warning:  Undefined variable $post in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 368
+[12-Jul-2024 14:36:39 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 368
+[12-Jul-2024 14:36:44 UTC] PHP Warning:  Undefined variable $post in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 368
+[12-Jul-2024 14:36:44 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 368
+[12-Jul-2024 14:36:48 UTC] PHP Warning:  Undefined variable $post in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 368
+[12-Jul-2024 14:36:48 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 368
+[12-Jul-2024 14:42:07 UTC] PHP Warning:  Undefined variable $term in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\loop-room.php on line 16
+[12-Jul-2024 14:43:09 UTC] PHP Warning:  Undefined variable $terms in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\loop-room.php on line 16
+[12-Jul-2024 15:26:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:22
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 22
+[12-Jul-2024 15:26:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:22
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 22
+[12-Jul-2024 16:05:43 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 24
+[13-Jul-2024 06:09:26 UTC] PHP Fatal error:  Uncaught Error: Class "SCF" not found in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:18
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 18
+[13-Jul-2024 06:10:30 UTC] PHP Fatal error:  Uncaught Error: Class "SCF" not found in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:18
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 18
+[13-Jul-2024 06:11:24 UTC] PHP Fatal error:  Uncaught Error: Class "CFS" not found in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:18
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 18
+[13-Jul-2024 06:12:05 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:19
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 19
+[13-Jul-2024 06:13:15 UTC] PHP Warning:  Undefined variable $imgGroup in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 19
+[13-Jul-2024 06:13:15 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:19
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 19
+[13-Jul-2024 06:13:20 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:19
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 19
+[13-Jul-2024 06:15:50 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting "elseif" or "else" or "endif" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 76
+[13-Jul-2024 06:17:01 UTC] PHP Fatal error:  Uncaught Error: Class "SCF" not found in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:24
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 24
+[13-Jul-2024 06:17:28 UTC] PHP Fatal error:  Uncaught Error: Class "CFS" not found in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:24
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 24
+[13-Jul-2024 06:27:11 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:25
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 25
+[13-Jul-2024 06:27:56 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:25
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 25
+[13-Jul-2024 06:28:42 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:25
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 25
+[13-Jul-2024 06:29:16 UTC] PHP Parse error:  syntax error, unexpected token "endif" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 77
+[13-Jul-2024 06:29:26 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 189
+[13-Jul-2024 06:29:48 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting "elseif" or "else" or "endif" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 76
+[13-Jul-2024 06:29:56 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 133
+[13-Jul-2024 06:30:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 133
+[13-Jul-2024 06:31:58 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:23
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 23
+[13-Jul-2024 06:32:12 UTC] PHP Warning:  Undefined variable $count in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 25
+[13-Jul-2024 06:32:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 43
+[13-Jul-2024 06:32:12 UTC] PHP Warning:  Undefined variable $count in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 58
+[13-Jul-2024 06:32:17 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:23
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 23
+[13-Jul-2024 06:42:57 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:19
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 19
+[13-Jul-2024 06:49:46 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php:21
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#3 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\single-property.php on line 21
+[14-Jul-2024 23:46:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[14-Jul-2024 23:46:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[14-Jul-2024 23:47:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[14-Jul-2024 23:47:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[14-Jul-2024 23:49:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[14-Jul-2024 23:49:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[16-Jul-2024 16:41:49 UTC] PHP Warning:  Undefined variable $cat_id in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 415
+[16-Jul-2024 16:42:53 UTC] PHP Warning:  Undefined variable $cat_id in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 415
+[16-Jul-2024 16:42:59 UTC] PHP Warning:  Undefined variable $cat_id in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 415
+[16-Jul-2024 16:44:29 UTC] PHP Warning:  Undefined variable $cat_id in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 415
+[16-Jul-2024 16:45:13 UTC] PHP Warning:  Undefined variable $cat_id in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 399
+[16-Jul-2024 16:53:55 UTC] PHP Warning:  Undefined variable $cat_list in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 404
+[16-Jul-2024 16:53:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 404
+[16-Jul-2024 16:54:21 UTC] PHP Warning:  Undefined variable $cat_list in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 404
+[16-Jul-2024 16:54:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 404
+[16-Jul-2024 16:54:28 UTC] PHP Warning:  Undefined variable $cat_list in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 404
+[16-Jul-2024 16:54:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\functions.php on line 404
+[16-Jul-2024 16:59:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[16-Jul-2024 16:59:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[16-Jul-2024 16:59:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[16-Jul-2024 16:59:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[16-Jul-2024 16:59:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[16-Jul-2024 16:59:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[16-Jul-2024 17:00:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[16-Jul-2024 17:00:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[16-Jul-2024 17:01:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[16-Jul-2024 17:01:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[16-Jul-2024 17:02:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[16-Jul-2024 17:02:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[16-Jul-2024 17:03:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[16-Jul-2024 17:03:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[16-Jul-2024 17:26:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[16-Jul-2024 17:26:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[16-Jul-2024 18:15:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[16-Jul-2024 18:15:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[16-Jul-2024 18:24:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[16-Jul-2024 18:24:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[16-Jul-2024 18:33:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[16-Jul-2024 18:33:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[16-Jul-2024 18:33:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[16-Jul-2024 18:33:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[17-Jul-2024 01:04:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_post() in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\top-title.php:12
+Stack trace:
+#0 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(812): require()
+#1 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template.php(745): load_template('C:\\Users\\tyuty\\...', false, Array)
+#2 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\index.php(18): get_template_part('template-parts/...')
+#4 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\tyuty\\...')
+#5 C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tyuty\\...')
+#6 C:\Users\tyuty\Local Sites\originaltheme\app\public\index.php(17): require('C:\\Users\\tyuty\\...')
+#7 {main}
+  thrown in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\top-title.php on line 12
+[17-Jul-2024 02:46:18 UTC] PHP Warning:  Undefined array key "path" in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\siteguard\classes\siteguard-rename-login.php on line 209
+[17-Jul-2024 09:24:19 UTC] PHP Warning:  Undefined variable $network in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\ewww-image-optimizer\common.php on line 12284
+[17-Jul-2024 10:02:08 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\google-sitemap-generator\upgrade-plugin.php on line 52
+[18-Jul-2024 03:55:33 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:55:33 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:55:33 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[18-Jul-2024 03:57:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php:2997) in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\pluggable.php on line 1435
+[18-Jul-2024 03:57:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php:2997) in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-includes\pluggable.php on line 1438
+[18-Jul-2024 03:59:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\plugins\wp-super-cache\wp-cache-phase2.php on line 2997
+[19-Jul-2024 01:46:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[19-Jul-2024 01:46:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[19-Jul-2024 01:47:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[19-Jul-2024 01:47:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
+[19-Jul-2024 01:47:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 63
+[19-Jul-2024 01:47:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\tyuty\Local Sites\originaltheme\app\public\wp-content\themes\grandeur-shinohara\template-parts\property-info.php on line 77
