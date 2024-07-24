@@ -70,9 +70,9 @@ get_header();
               <p class="copy-text">内見の際はお気軽にお問い合わせください。</p>
               <div class="top-fastview__tel">
                 <?php if ($phone_number = get_theme_mod('phone_number')): ?>
-                  <a href="tel:<?php echo esc_attr($phone_number); ?>">
-                    <i class="fa-solid fa-phone fa-lg tel"><?php echo esc_html($phone_number); ?></i>
-                  </a>
+                <a href="tel:<?php echo esc_attr($phone_number); ?>">
+                  <i class="fa-solid fa-phone fa-lg tel"><?php echo esc_html($phone_number); ?></i>
+                </a>
                 <?php endif; ?>
                 <div class="hours-holidays">
                   <p class="hours-holidays__title">営業時間:</p>
@@ -87,8 +87,8 @@ get_header();
       <section class="concept">
         <div class="concept__wrap">
           <div id="concept">
-            <h1 class="concept__title  concept-title">グランドールシノハラの紹介</h1>
-            <h2 class="concept__subtitle  concept-subtitle">新しい生活の始まりをサポートするアパート</h2>
+            <h2 class="concept__title  concept-title">グランドールシノハラの紹介</h2>
+            <h3 class="concept__subtitle  concept-subtitle">新しい生活の始まりをサポートするアパート</h3>
           </div>
           <div class="concept__text">
             <p>グランドールシノハラは、<br> 群馬県邑楽郡大泉町吉田に位置する2階建てアパートです。</p>
@@ -160,22 +160,22 @@ get_header();
         <h2 class="information-title">お知らせ</h2>
         <!-- メインループ -->
         <?php if (have_posts()): ?>
-          <ul class="information__list">
-            <?php while (have_posts()):
+        <ul class="information__list">
+          <?php while (have_posts()):
               the_post(); ?>
-              <li id="information-<?php the_ID(); ?>" <?php post_class('information__list__item'); ?>>
-                <a href="<?php the_permalink(); ?> ">
-                  <div class="information__list__date">
-                    <time datetime="<?php the_time('Y-m-d'); ?>"><?php the_time('Y.m.d'); ?></time>
-                    <p><?php the_title(); ?></p>
-                    <span class="arrow"></span>
-                  </div>
-                </a>
-              </li>
-            <?php endwhile; ?>
-          </ul>
+          <li id="information-<?php the_ID(); ?>" <?php post_class('information__list__item'); ?>>
+            <a href="<?php the_permalink(); ?> ">
+              <div class="information__list__date">
+                <time datetime="<?php the_time('Y-m-d'); ?>"><?php the_time('Y.m.d'); ?></time>
+                <p><?php the_title(); ?></p>
+                <span class="arrow"></span>
+              </div>
+            </a>
+          </li>
+          <?php endwhile; ?>
+        </ul>
         <?php else: ?>
-          <p>現在お知らせはありません。</p>
+        <p>現在お知らせはありません。</p>
         <?php endif; ?>
       </section>
       <section class="contact">

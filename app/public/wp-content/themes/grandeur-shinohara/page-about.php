@@ -11,7 +11,7 @@ get_header();
     <?php while (have_posts()):
         the_post(); ?>
     <section class="profile">
-      <h1 class="profile__title"><?php echo strtoupper(get_the_title()) ?></h1>
+      <h2 class="profile__title"><?php echo strtoupper(get_the_title()) ?></h2>
       <p class="profile__text">
         <?php the_content(); ?>
       </p>

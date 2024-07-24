@@ -12,7 +12,7 @@ if (!is_active_sidebar('side-widget')) {
 }
 ?>
 <aside class="archive">
-  <h3 class="archive-sidebar__ttl">月別の一覧</h3>
+  <h2 class="archive-sidebar__ttl">月別の一覧</h2>
   <ul class="archive-list">
     <?php dynamic_sidebar('side-widget'); ?>
   </ul>

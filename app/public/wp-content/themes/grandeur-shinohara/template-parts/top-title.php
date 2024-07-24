@@ -1,5 +1,5 @@
 <div class="top-title">
-  <h1 class="top-title__txt">
+  <div class="top-title__txt">
     <?php
     if (is_page('about')) {
       echo 'オーナー紹介';
@@ -15,6 +15,6 @@
       echo 'お知らせ'; // それ以外の場合のデフォルト
     }
     ?>
-  </h1>
+  </div>
 </div>
 <?php breadcrumb(); ?>

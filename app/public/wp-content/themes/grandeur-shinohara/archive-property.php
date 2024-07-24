@@ -19,7 +19,7 @@ get_header();
   <div class="container">
     <section class="news">
       <div class="room__wrap">
-        <h1 class="room-title">現在募集中のお部屋</h1>
+        <h2 class="room-title">現在募集中のお部屋</h2>
       </div>
       <div class="wrapper">
         <ul class="room__list">

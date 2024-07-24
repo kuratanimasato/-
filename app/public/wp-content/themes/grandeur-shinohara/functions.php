@@ -212,26 +212,26 @@ add_action('wp_enqueue_scripts', 'enqueue_webfont_loader');
 function initialize_webfont_config()
 {
 	?>
-	<script>
-		window.WebFontConfig = {
-			google: {
-				families: ['Noto+Sans+JP']
-			},
-			active: function () {
-				sessionStorage.fonts = true;
-			}
-		};
+<script>
+window.WebFontConfig = {
+  google: {
+    families: ['Noto+Sans+JP']
+  },
+  active: function() {
+    sessionStorage.fonts = true;
+  }
+};
 
-		(function () {
-			var wf = document.createElement('script');
-			wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
-			wf.type = 'text/javascript';
-			wf.async = true;
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(wf, s);
-		})();
-	</script>
-	<?php
+(function() {
+  var wf = document.createElement('script');
+  wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+  wf.type = 'text/javascript';
+  wf.async = true;
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(wf, s);
+})();
+</script>
+<?php
 }
 add_action('wp_head', 'initialize_webfont_config');
 
@@ -254,6 +254,13 @@ function myTheme_enqueue_style_script()
 	wp_enqueue_script('custom-script', get_template_directory_uri() . '/js/script.js', array('gsap', 'scrolltrigger', 'swiper'), null, 'defer', true);
 }
 add_action('wp_enqueue_scripts', 'myTheme_enqueue_style_script');
+
+// /wp-content/themes/your-theme/functions.php
+function enqueue_structured_data_script()
+{
+	wp_enqueue_script('structured-data', get_template_directory_uri() . '/js/structured-data.js', array(), null, false);
+}
+add_action('wp_enqueue_scripts', 'enqueue_structured_data_script');
 
 
 /**

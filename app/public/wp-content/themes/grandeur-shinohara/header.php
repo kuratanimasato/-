@@ -2,13 +2,13 @@
 /**
  * The header for our theme
  *
- * This is the template that displays all of the <head> section and everything up until <div id="content">
+ * This is the template that displays all of the <head> section and everything
+ * up until <div id="content">
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
  * @package grandeur-shinohara
  */
-
 ?>
 <!DOCTYPE html>
 <html lang="ja">
@@ -30,7 +30,7 @@
         }
         ?>
         <div <?php echo $tag; ?>class="header-logo"><a href="<?php echo esc_url(home_url('/')); ?>">
-            <div class="logo"> <?php bloginfo('name'); ?></div>
+            <h1 class="logo"> <?php bloginfo('name'); ?></h1>
             <span>Grandeur Shinohara</span>
           </a>
         </div <?php echo $tag; ?>>

@@ -19,7 +19,7 @@ get_header();
   <div class="container">
     <section class="news">
       <div class="news__wrap">
-        <h1 class="news-title">お知らせ一覧</h1>
+        <h2 class="news-title">お知らせ一覧</h2>
       </div>
       <div class="wrapper">
         <ul class="news__list">

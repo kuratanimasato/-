@@ -15,7 +15,7 @@ get_header();
         ?>
     <section class="access">
       <div class="access-title__wrap">
-        <h1 class="access-info"><?php echo strtoupper(get_the_title()); ?></h1>
+        <h2 class="access-info"><?php echo strtoupper(get_the_title()); ?></h2>
       </div>
       <div class="location-access">
         <i class="fa-solid fa-location-dot">

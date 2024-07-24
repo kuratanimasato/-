@@ -1378,7 +1378,7 @@ p {
 }
 
 .archive-sidebar__ttl {
-	font-size: var(--font-text);
+	font-size: var(--font-subtitle);
 	border-bottom: 3px solid var(--accent-color);
 
 }
